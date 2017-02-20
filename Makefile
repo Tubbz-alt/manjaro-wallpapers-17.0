@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 PREFIX  = 	/usr
-DPATH 	=	$(DESTDIR)$(PREFIX)/share/wallpapers
+DPATH 	=	$(DESTDIR)$(PREFIX)/share/backgrounds
 DEL 	=  	rm -rf
 INSTD 	=	install -Dm644 -t
 
