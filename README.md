@@ -1,7 +1,5 @@
-# official wallpapers for the Manjarolinux 17.0 release
+This repo has been archived. Our code is now hosted at
 
-A big thank you to the awesome Manjaro Community for their contributions,
-namely **optics**, **Reznorix**, **edskeye** and **coco** for the wallpapers in this repo.
+https://gitlab.manjaro.org/
 
-There are of course many more fantastic backgrounds to be found on the manjaro forums.
-These here are from [**this**](https://forum.manjaro.org/t/manjaro-17-wallpapers/17276) dedicated thread.
+See you there!
